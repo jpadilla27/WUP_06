@@ -122,4 +122,6 @@ When we take into account the P value relation between White and Other races, th
 
 # Discussion and Conclusion
 
+When asked if attitude towards capitol punisment is independent of race, we would reject the null hypothesis because race is a determining factor on the attitude towards capitol punishment. When using the Fisher test we are able to see that every race is independent of each other. The P values were small enough to show no race had any relation to each other.
+
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
