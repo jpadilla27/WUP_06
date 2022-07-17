@@ -115,6 +115,10 @@ fisher.test(table2)
 fisherXY(mydata$cappun,mydata$race)
 ```
  
+ According to the Chi-squared test the P-value is .000000000000001027 which is significantly small where we would reject the null hypothesis.  
+ 
+According to the Fisher Test, when comparing White to Black the p-value is still significantly small at .00000000000000575 meaning there is an obvious difference when comparing the opinions of a White and Black person. When comparing White to White there is a 2.46 chance of them differing in opinions.
+When we take into account the P value relation between White and Other races, the p value is still insignificant at .0002819 where you can reject the null hypothesis as well. Finally the Black and Other race have a p-value pf .02479 which is still less than .05 and are still required to reject the null hypothesis.
 
 # Discussion and Conclusion
 
