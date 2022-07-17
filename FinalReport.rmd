@@ -86,7 +86,14 @@ rowPerc(table2)
 colPerc(table2)
 ```  
 
+Table 1  
+The White race is 67.98% in favor of capitol punishment and opposed 32%.  
+The Black Race is 46.29% in favor of capitol punishment and opposed 53.71%   
+The Other race is 55.87% in favor of capitol punishment and opposed 44.13%  
 
+Table 2  
+The people in favor of the capitol punishment consist of 78.34% White, 11.70% Black, and 9.96% Other.  
+The people opposed to capitol punishment consist of 63.24% White, 23.27% Black, and 13.49% Other.  
 
 ## Inferential Results
 
