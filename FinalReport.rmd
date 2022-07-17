@@ -67,9 +67,9 @@ basicC + geom_bar(stat="identity",position="dodge")
 
 basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun)) 
 basicCC + geom_bar(stat="identity", position = "dodge")
-```
+```  
 
-
+From the bar plot, A higher count of the White race were observed than Black or Other. The White race and Other are in favor of capitol punishment and the Black race is opposed.
 
 ### Numerical Descriptive Results
 
@@ -84,7 +84,8 @@ basicCC + geom_bar(stat="identity", position = "dodge")
 table2 <- xtabs(~race + cappun, data=mydata)
 rowPerc(table2)
 colPerc(table2)
-```
+```  
+
 
 
 ## Inferential Results
